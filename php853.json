@@ -1,0 +1,15 @@
+{
+  "version": "8.5.3",
+  "description": "PHP 8.5.3 CLI",
+  "homepage": "https://www.php.net/",
+  "license": "PHP-3.01",
+  "architecture": {
+    "64bit": {
+      "url": "https://downloads.php.net/~windows/releases/archives/php-8.5.3-Win32-vs17-x64.zip",
+      "hash": "636077a9e976b19f3b4a2b47b439a144f24ab69a7e429b6e9001818723eb77b2"
+    }
+  },
+  "bin": [
+    "php.exe"
+  ]
+}
